@@ -1,0 +1,7 @@
+= Orador =
+
+*Objetivo:* Desarrollar una herramienta para la creación de presentaciones electrónicas, que aprovechen los efectos gráficos disponibles a través de las tecnologías web: HTML5, JavaScript, CSS3 etc.
+
+== Introducción== 
+
+Tradicionalmente, las presentaciones electrónicas se representan como un conjunto de diapositivas que se muestran en secuencia, cada una contiene objetos multimedia, a los cuales se les pueden aplicar efectos visuales para hacer que la presentación sea más atractiva. Por otro lado, desde hace mucho tiempo existe la posibilidad de crear presentaciones electrónicas utilizando el sistema Flash de Adobe, el cual brinda la posibilidad de generar presentaciones más vistosas e interactivas.
